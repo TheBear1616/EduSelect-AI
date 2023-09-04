@@ -12,7 +12,8 @@
     - Multi-Layer Perceptron (MLP): Utilizes a neural network to map embedded information to potential college majors.
     - DistilBERT Classifier: Leverages a fine-tuned DistilBERT model to predict the most suitable majors.
 
-##Results
+## Results
+
 The project has achieved promising results in major recommendation accuracy, as demonstrated by the following performance metrics:
     - BERT + KNN: Achieved an accuracy of 0.47 in major recommendations.
     - BERT + Major MLP: Improves accuracy to 0.71, providing more refined major suggestions.
