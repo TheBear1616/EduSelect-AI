@@ -1,6 +1,6 @@
-# Find My Major
+# EduSelect AI
 
-**Find My Major** is a web-based tool dedicated to helping students at Cal Poly (California Polytechnic State University) discover their ideal college major based on their course and program preferences. This project leverages state-of-the-art natural language processing (NLP) techniques, including BERT-based word embeddings and various classification models, to provide tailored major recommendations.
+**EduSelect AI** is a web-based tool dedicated to helping students at Cal Poly (California Polytechnic State University) discover their ideal college major based on their course and program preferences. This project leverages state-of-the-art natural language processing (NLP) techniques, including BERT-based word embeddings and various classification models, to provide tailored major recommendations.
 
 ## Features
 
